@@ -25,6 +25,8 @@ At this point you should see your avatars face moving! These movements are ident
 
 The "Loop" option can be enabled to loop the messages for rapid iterating of blendshapes
 
+Note: This appears to be currently incompatible with Echo the Neko's setups. This is being looked into but it probably won't work yet
+
 This was inspired by Kadachii's app "OSC Replay" - https://github.com/KadachiiVR/osc_replay
 
 
