@@ -18,7 +18,7 @@ A: Super easy!
 3: In Unity go to Tools > Avatars 3.0 Emulator > OSC Control panel > and make sure "open socket" is enabled
 4: Go into play mode, click the avatar prefab in your hierarchy, then in the inspector enable mouth and eye tracking in the VRCFT menua
 5: Open OSCSend
-6: Click "browse" on one of the presets. OSCSend by default comes with one
+6: Click "browse" on one of the headset presets. There are headset samples included in the "Headsets" folder
 7: Press Send
 
 At this point you should see your avatars face moving! These movements are identical to someone actually wearing a Quest Pro and moving their face
