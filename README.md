@@ -25,6 +25,7 @@ At this point you should see your avatars face moving! These movements are ident
 
 The "Loop" option can be enabled to loop the messages for rapid iterating of blendshapes
 
+This was inspired by Kadachii's app "OSC Replay" - https://github.com/KadachiiVR/osc_replay
 
 
 Full disclaimer: Parts of this tool were developed with an LLM to assist with code. I am not a programmer and this program was something I originally made for my own use. I have no plans to profit off this software and only wish for it to assist others. If you would like to recreate this in its entirety without the use of AI, you have my blessing. 
